@@ -13,7 +13,7 @@ public class Seat{
 		this.price = price;
 		this.isAvailable = isAvailable;
 
-		if(isAvailable = true){availability = "A";}
+		if(isAvailable == true){availability = "A";}
 		else{availability = "NA";}
 	}
 

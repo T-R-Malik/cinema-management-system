@@ -63,7 +63,7 @@ public class Cinema{
 		return counter;
 	}
 
-	public int getCinemaSeatsByType(){
+	public void getCinemaSeatsByType(){
 		System.out.println("\n===== CINEMA SEATS BY TYPE =====");
 		int counter = 0;
 		for(int i = 0; i < screens.length; i++){
@@ -73,7 +73,6 @@ public class Cinema{
 				System.out.printf("%-10s : %d\n", type, counter);
 			}
 		}
-		return counter;
 	}
 
 

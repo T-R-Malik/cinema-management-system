@@ -1,10 +1,9 @@
 package sp25_bcs_133;
 
 public class Screen{
-	Seat seats[][];
+	private Seat seats[][];
 	private String screenName;
 	private int totalRows;
-	Seat reservedPremiumSeats[][] = new Seat[10][];
 
 	public Screen(String screenName, int totalRows){
 		this.screenName = screenName;
@@ -171,29 +170,6 @@ public class Screen{
 		}
 		return null; // none found
 	}
-
-/*
-	public Seat[] getReservedPremiumSeats(){
-		for(int i = 0; i < seats.length; i++){
-			for(int j = 0; j < seats[i].length; j++){
-				if(seats[i][j].getType() == Type.PREMIUM && seats[i][j].getAvailability() == false){
-					seats[i][j] = reservedPremiumSeats[i];
-				}
-			}
-		}
-		return reservedPremiumSeats;
-	}
-
-	public void displayTask(){
-		for(int i = 0; i < reservedPremiumSeats.length; i++){
-			for(int j = 0; j < reservedPremiumSeats[i].length; j++)
-				System.out.println(reservedPremiumSeats[i][j]);
-		}
-	}		
-
-*/
-	
-	
 
 	public String getName(){return screenName;}
 }
