@@ -1,5 +1,9 @@
 # Cinema Management System
 
+<p float="left">
+  <img src="/images/pic1.png" width="99%" />
+</p>
+
 ## Overview
 
 A Java program developed to manage cinema operations including movie listings and ticket management.
