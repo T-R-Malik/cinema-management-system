@@ -11,11 +11,11 @@ A Java program developed to manage cinema operations including movie listings an
 
 ## Features
 <p float="left">
-  <img src="/images/pic3.png" width="49%" />
   <img src="/images/pic4.png" width="49%" />
   <img src="/images/pic5.png" width="49%" />
 </p>
-</p>
+
+![pic3](images/pic3)
 
 - Movie management
 - Cinema Management
