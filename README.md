@@ -15,7 +15,9 @@ A Java program developed to manage cinema operations including movie listings an
   <img src="/images/pic5.png" width="49%" />
 </p>
 
-![pic3](images/pic3.png)
+<p float="left">
+  <img src="/images/pic3.png" width="99%" />
+</p>
 
 - Movie management
 - Cinema Management
