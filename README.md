@@ -6,7 +6,7 @@ A Java program developed to manage cinema operations including movie listings an
 
 <p float="left">
   <img src="/images/pic1.png" width="49%" />
-  <img src="/images/pic2.png.png" width="49%" />
+  <img src="/images/pic2.png" width="49%" />
 </p>
 
 ## Features
