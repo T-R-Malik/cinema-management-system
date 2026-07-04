@@ -4,16 +4,20 @@
 
 A Java program developed to manage cinema operations including movie listings and ticket management.
 
-![ss1](images/pic1.png) ![ss2](images/pic2.png)
+<p float="left">
+  <img src="/images/pic1.png" width="49%" />
+  <img src="/images/pic2.png.png" width="49%" />
+</p>
 
 ## Features
-![ss3](images/pic3.png)
-![ss4](images/pic5.png)
+<p float="left">
+  <img src="/images/pic3.png" width="49%" />
+  <img src="/images/pic4.png" width="49%" />
+</p>
 
 - Movie management
+- Cinema Management
 - Ticket booking
-- Customer records
-- Scheduling
 
 ## Technologies
 
